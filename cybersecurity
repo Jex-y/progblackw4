@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+  <head style = "background-color:powderblue";style="font-size:300%";>
+    <title>Cyber Security</title>
+  </head>
+  <body style = "background-color:white;">
+    <h1 style="text-align:center;">Cyber Security</h1>
+    <p style="text-align:center;">Why is it such a significant application of Computing?</p>
+    <p>Cyber security makes use of techniques such as:</p>
+    <p></p>
+    <ul>
+       <li>Symmetric and asymmetric encryption</li>
+       <li>Ciphers</li>
+       <li>Hardware and software that counters malware</li>
+    </ul>
+  </body>
+</html>
