@@ -75,6 +75,20 @@
     font-size: 128%;
 }
 
+.article li{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 128%;
+}
+
+.artcile h2{
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    margin-left: 20%;
+    font-size: 300%;
+    margin-top: 6%;
+}
+
 .article img {
     display: block;
     margin-left: auto;
@@ -82,7 +96,13 @@
     height: 80%;
 }
 
-
+.carousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 80%
+}
 
 
 @media screen and (max-height: 450px) {
