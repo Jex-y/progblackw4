@@ -59,6 +59,10 @@
 .author hr {
     margin-left: -5%;
 }
+
+.author p{
+    width: 60%;
+}
 .article {
     position: absolute;
     margin-top: 30%;
