@@ -104,6 +104,11 @@
     height: 80%
 }
 
+.gitcard{
+    width: 40%;
+    z-index: -1;
+}
+
 
 @media screen and (max-height: 450px) {
     .tweets {padding-top: 15px;}
